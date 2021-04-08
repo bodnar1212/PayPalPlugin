@@ -7,7 +7,7 @@
     "require": {
         "php": "^7.3",
 
-        "bodnar1212/sylius": "^1.8",
+        "bodnar1212/sylius": "2.0.5",
         "nyholm/append-query-string": "^0.1.1",
         "phpseclib/phpseclib": "^2.0",
         "sylius-labs/doctrine-migrations-extra-bundle": "^0.1.3",
